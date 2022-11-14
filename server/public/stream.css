@@ -1,0 +1,119 @@
+@font-face {
+    font-family: minecraftia;
+    src: url("./minecraftia.ttf")
+}
+
+body {
+    background-color: #111111;
+    font-family: minecraftia;
+    
+}
+
+
+.fg0 {
+    color: #F0F0F0;
+}
+.fg1 {
+    color: #F2B233;
+}
+.fg2 {
+    color: #E57FD8;
+}
+.fg3 {
+    color: #99B2F2;
+}
+.fg4 {
+    color: #DEDE6C;
+}
+.fg5 {
+    color: #7FCC19;
+}
+.fg6 {
+    color: #F2B2CC;
+}
+.fg7 {
+    color: #4C4C4C;
+}
+.fg8 {
+    color: #999999;
+}
+.fg9 {
+    color: #4C99B2;
+}
+.fga {
+    color: #B266E5;
+}
+.fgb {
+    color: #3366CC;
+}
+.fgc {
+    color: #7F664C;
+}
+.fgd {
+    color: #57A64E;
+}
+.fge {
+    color: #CC4C4C;
+}
+.fgf {
+    color: #111111;
+}
+
+.bg0 {
+    background-color: #F0F0F0;
+}
+.bg1 {
+    background-color: #F2B233;
+}
+.bg2 {
+    background-color: #E57FD8;
+}
+.bg3 {
+    background-color: #99B2F2;
+}
+.bg4 {
+    background-color: #DEDE6C;
+}
+.bg5 {
+    background-color: #7FCC19;
+}
+.bg6 {
+    background-color: #F2B2CC;
+}
+.bg7 {
+    background-color: #4C4C4C;
+}
+.bg8 {
+    background-color: #999999;
+}
+.bg9 {
+    background-color: #4C99B2;
+}
+.bga {
+    background-color: #B266E5;
+}
+.bgb {
+    background-color: #3366CC;
+}
+.bgc {
+    background-color: #7F664C;
+}
+.bgd {
+    background-color: #57A64E;
+}
+.bge {
+    background-color: #CC4C4C;
+}
+.bgf {
+    background-color: #111111;
+}
+
+
+div {
+    display:flex;
+    
+}
+pre {
+    padding: 0%;
+    margin: 0%
+}
